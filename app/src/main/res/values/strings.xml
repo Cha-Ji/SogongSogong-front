@@ -59,4 +59,6 @@
     <string name="sogongsogongBoard">소공소공 게시판</string>
     <string name="liveSogongsogongIs"># 실시간 소공소공은?</string>
     <string name="pleaseInputSearchKeyword">검색어를 입력해주세요.</string>
+    <string name="canAddTwoHashTag">최대 2개의 해시태그를 걸 수 있어요.</string>
+    <string name="talkSogongSogong">소공소공 말하기</string>
 </resources>
